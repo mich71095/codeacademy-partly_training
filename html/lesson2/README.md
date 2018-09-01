@@ -1,18 +1,17 @@
 INTRODUCTION TO HTML
-What is HTML?
-Welcome to the world of code! Last year, millions of learners from our community started with HTML. Why? HTML is the skeleton of all web pages. It's often the first language learned by marketers and designers and is core to front-end development work. If this is your first time touching code, we're excited for what you're about to create.
+HTML Anatomy
+HTML is composed of elements. These elements structure the webpage and define its content. Let's take a look at how they're written.
 
-So what exactly is HTML? HTML provides structure to the content appearing on a website, such as images, text, or videos. Right-click on any page on the internet, choose “Inspect,” and you’ll see HTML in a panel of your screen.
+The diagram to the right displays an HTML paragraph element. As we can see, the paragraph element is made up of one opening tag (<p>), the content (“Hello World!” text), and a closing tag (</p>). A tag and the content between it is called an HTML element. There are many tags that we can use to organize and display text and other types of content, like images.
 
-HTML stands for HyperText Markup Language:
+Let's quickly review each part of the element pictured:
 
-A markup language is a computer language that defines the structure and presentation of raw text.
-In HTML, the computer can interpret raw text that is wrapped in HTML elements.
-HyperText is text displayed on a computer or device that provides access to other text through links, also known as hyperlinks. You probably clicked on a couple of hyperlinks on your way to this Codecademy course.
-Learning HTML is the first step in creating websites, but even a bit of knowledge can help you inject code snippets into newsletter, blog or website templates. As you continue learning, you can layer HTML with CSS and JavaScript to create visually compelling and dynamic websites. But for now, we're going to focus on how to add and modify basic content on a page, like text, images, and videos. Don't worry if the websites look ugly — we're just getting started.
+HTML element (or simply, element) — a unit of content in an HTML document formed by HTML tags and the text or media it contains.
 
+HTML Tag — the element name, surrounded by an opening (<) and closing (>) angle bracket.
 
+Opening Tag — the first HTML tag used to start an HTML element. The tag type is surrounded by opening and closing angle brackets.
 
-Instructions:
+Content — The information (text or other elements) contained between the opening and closing tags of an HTML element.
 
-1. In the code editor to the right, type your name in between <h1> and </h1>, then press Run.
+Closing tag — the second HTML tag used to end an HTML element. Closing tags have a forward slash (/) inside of them, directly after the left angle bracket.
