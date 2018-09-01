@@ -1,5 +1,5 @@
-// Change the text between the quotation marks and run your code to see your name animated!
-drawName('Change text');
+// Change the value of the message variable to change the text on screen
+message = 'new message';
 
-// The code below will allow you to interact with the letters
+drawName(message);
 bounceBubbles();
