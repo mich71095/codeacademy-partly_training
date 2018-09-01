@@ -1,0 +1,1 @@
+# Learn to use Codecademy and animate your name in the process!
